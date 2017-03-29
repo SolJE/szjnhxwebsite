@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #666;
+	margin: 0px;
+	font-size: 12px;
+}
+.adv {
+	line-height: 270px;
+	color: #FFF;
+	padding-right: 20px;
+	text-align: right;
+	background-image: url(../image/index_mid.jpg);
+}
+.nav {
+	background-color: #F33;
+	color: #FFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 50px;
+}
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+.jianjie {
+	line-height: 150%;
+	text-indent: 25px;
+	padding: 20px;
+}
